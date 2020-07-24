@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .investing {
+    margin: 0 auto;
+    width: 1300px;
+    height:600px;
+  }
